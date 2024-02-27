@@ -4,7 +4,7 @@ README.md
   * id: 66114540289
   * name: ทวีทรัพย์ ดีแสน
 - technology: [streamlit]
-- application description:สร้างเว็บไซต์เพื่อจัดเก็บข้อมูลสภาพอากาศ
+- application description:สร้างเว็บไซต์แปลงอุณหภูมิ
 
 * presentation: [canva] link [ubu]
 * video: link [ubu]
